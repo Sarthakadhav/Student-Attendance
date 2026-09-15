@@ -1,4 +1,4 @@
-import Faculty from "./Components/Faculty";
+import Faculty from "./FComponents/Faculty";
 
 function App() {
   return (
